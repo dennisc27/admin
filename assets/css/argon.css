@@ -84,6 +84,18 @@ section
     display: block;
 }
 
+.topheader{
+    background-color: #5e72e4; 
+    color: #f4f5f7;
+    font-size: 1.5em;
+    font-weight: bolder;
+
+}
+
+.textospan{
+    color:white;
+}
+
 body
 {
     font-family: Open Sans, sans-serif;
@@ -2673,7 +2685,8 @@ pre code
 {
     display: block;
     overflow-x: auto;
-
+    overflow-y: auto;
+    height: 500px;
     width: 100%;
 
     -webkit-overflow-scrolling: touch;
@@ -17886,7 +17899,7 @@ a.text-darker:focus
 
 .text-muted
 {
-    color: #8898aa !important;
+    color: #3d4247 !important;
 }
 
 .text-black-50
@@ -19039,7 +19052,7 @@ a.btn-icon-only
     transform: translate(50%, -50%);
 }
 
-.chart
+.chart, .chart2
 {
     position: relative;
 
@@ -20433,6 +20446,7 @@ textarea[resize='horizontal']
 {
     font-size: 1.25rem;
 }
+
 .icon-sm + .icon-text
 {
     width: calc(100% - $icon-size-sm - 1);
