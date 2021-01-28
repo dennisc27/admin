@@ -33,6 +33,7 @@ module.exports = {  //Aquí se encuentra toda la configuración de lo que va a s
         new CopyWebpackPlugin(
             {
                 patterns: [{ from: './assets/css/argon.css',
+                to: '' },{ from: './examples/dashboard.php',
                 to: '' }],
              }
         )

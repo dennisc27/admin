@@ -1,0 +1,12 @@
+{
+    "name":"denniscastillo/admin",
+    "autoload": {
+        "psr-4": {
+            "Text\\": "src/"
+        },
+        "files": [
+            "examples/dashboard.php"
+        ]
+    }
+    
+}
