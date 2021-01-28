@@ -140,7 +140,7 @@
       <div class="container-fluid">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         
-          <header class="topheader">COMPRAVENTA FEDERICO</header>
+          <header class="topheader">.COMPRAVENTA FEDERICO.</header>
           <!-- Navbar links -->
           <ul class="navbar-nav align-items-center  ml-md-auto ">
             <li class="nav-item d-xl-none">
